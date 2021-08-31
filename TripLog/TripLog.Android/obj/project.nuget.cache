@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PEZ+YdjWVUfSP95OQF/gS9Q8Kyg5Dw6P4QQ9pw5MaeE04duBJXcFHVoUxNb4eCf3ixuwZdIGpgYt5MneaoB1+A==",
+  "dgSpecHash": "uaTl0h9KB5oLQlFMhMYlELhRvWHE4dI6rMgXIHzkArCX9xFivhxY/oshSvHtHneHymEjaZr0drvrvZU3jsc0lg==",
   "success": true,
   "projectFilePath": "C:\\Users\\iorel\\source\\repos\\TripLog\\TripLog\\TripLog.Android\\TripLog.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iorel\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
     "C:\\Users\\iorel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
