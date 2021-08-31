@@ -3,9 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TripLog.Views.MainPage"
              Title="TripLog">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="New" 
+            Clicked="New_Clicked" />
+    </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <CollectionView x:Name="trips"
-            SelectionMode="Single">
+            SelectionMode="Single"
+            SelectionChanged="Trips_SelectionChanged">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <Grid Padding="10">
